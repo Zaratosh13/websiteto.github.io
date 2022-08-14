@@ -1,0 +1,77 @@
+﻿#topHeader {
+    background-color: #2C3A47;
+    border-bottom: 1px solid #ebebeb;
+}
+
+    #topHeader a {
+        color: #ffffff;
+        font-weight: 600;
+        font-size: 0.89rem;
+    }
+
+.container-fluid {
+    padding-left: 0;
+    padding-right: 0;
+}
+
+.nav a {
+    color: #2f3542;
+}
+
+nav ul li a {
+    font-size: 1.1rem;
+    font-weight: 600;
+}
+
+.full-footer {
+    background-color: #F8EFBA;
+}
+
+    .full-footer h3 {
+        color: #2f3542;
+        font: 600;
+    }
+
+    .full-footer p {
+        color: #2f3542;
+    }
+
+.bottom-footer {
+    background-color: #1e272e;
+}
+
+    .bottom-footer p {
+        color: #f1f2f6;
+    }
+/*Top hero sec*/
+.top-hero-section {
+    background-color: black;
+    color: white;
+}
+
+    .top-hero-section img {
+        width: 500px;
+        padding: initial;
+    }
+
+    .top-hero-section a {
+        color: #ff4757;
+    }
+
+.requirments-section {
+    background-color: #273c75;
+    text-align: center;
+}
+
+    .requirments-section h3 {
+        color: white;
+    }
+
+.about-me {
+    background-color: black;
+    color: white;
+}
+
+.about-abhishek p {
+    color: white;
+}
